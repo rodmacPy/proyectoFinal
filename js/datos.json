@@ -1,0 +1,67 @@
+[
+    {
+    "tipo": "Cactus",
+    "id": 1,
+    "producto": "Epiphyllum Guatemalense",
+    "precio": 23000,
+    "descripcion": "Planta exótica ideal para ponerla en el interior, no tiene espinas, es ideal si tienes niños y no quieres que se dañen",
+    "img_url": "img/product-1.jpg"
+
+},
+{
+    "tipo": "Cactus",
+    "id": 2,
+    "producto": "Echinopsis Eyriesii",
+    "precio": 25000,
+    "descripcion": "Un buen cactus resistente y que aguanta a casi todo, soporta exceso de agua y no sufres riesgos de que se dañe, le gusta el sol.",
+    "img_url": "img/product-2.jpg"
+},
+{
+    "tipo": "Cactus",
+    "id": 3,
+    "producto": "Cactus lunar de Injerto rojo",
+    "precio": 42000,
+    "descripcion": "Crea el espacio interior o exterior de tus sueños con plantas de cactus de luna viva, bajo mantenimiento, solo debes regarlo una vez cada 2-3 semanas.",
+    "img_url": "img/product-3.jpg"
+},
+{
+    "tipo": "Suculentas",
+    "id": 4,
+    "producto": "Gollum Jade",
+    "precio": 34000,
+    "descripcion": "Una Suculenta de las plantas de Jade, se le conoce por su particular forma parecida a las orejas de Shrek.",
+    "img_url": "img/product-4.jpg"
+},
+{
+    "tipo": "Suculentas",
+    "id": 5,
+    "producto": "Cadena de corazones abigarrados",
+    "precio": 22000,
+    "descripcion": "Perfecta para ponerlo en la oficina, no hace falta ponerlo en el sol correcto pero se debe quitar de vez en cuando al sol.",
+    "img_url": "img/product-5.jpg"
+},
+{
+    "tipo": "Suculentas",
+    "id": 6,
+    "producto": "Peperomia axilaris",
+    "precio": 28000,
+    "descripcion": "Muy fácil de cultivar, prefiere la luz brillante e indirecta, el agua solamente cuando est'e seco, perfecto para personas que recién están comenzando a tener una suculenta.",
+    "img_url": "img/product-6.jpg"
+},
+{
+    "tipo": "Suculentas",
+    "id": 7,
+    "producto": "Graptopetalum Superbum",
+    "precio": 26000,
+    "descripcion": "No sse debe colocar la planta en sol directo, solo se le coloca agua cuando el suelo esté seco.",
+    "img_url": "img/product-7.jpg"
+},
+{
+    "tipo": "Cactus",
+    "id": 8,
+    "producto": "Barril dorado",
+    "precio": 38000,
+    "descripcion": "No sse debe colocar la planta en sol directo, solo se le coloca agua cuando el suelo esté seco.",
+    "img_url": "img/product-8.jpg"
+}
+]
