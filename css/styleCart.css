@@ -234,7 +234,7 @@ footer {
 #alert{
     width: 100vw;
     height: 100vw;
-    position: absolute;
+    position: fixed;
     background-color: rgba(91, 103, 106, 0.6);
     /* margin: auto; */
     z-index: 1;
